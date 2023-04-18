@@ -1,0 +1,11 @@
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\bin\Debug\Projeto Jogo da Velha.exe.config
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\bin\Debug\Projeto Jogo da Velha.exe
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\bin\Debug\Projeto Jogo da Velha.pdb
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\obj\Debug\Projeto Jogo da Velha.csproj.AssemblyReference.cache
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\obj\Debug\Projeto Jogo da Velha.csproj.SuggestedBindingRedirects.cache
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\obj\Debug\Projeto_Jogo_da_Velha.Form1.resources
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\obj\Debug\Projeto_Jogo_da_Velha.Properties.Resources.resources
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\obj\Debug\Projeto Jogo da Velha.csproj.GenerateResource.cache
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\obj\Debug\Projeto Jogo da Velha.csproj.CoreCompileInputs.cache
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\obj\Debug\Projeto Jogo da Velha.exe
+H:\POO\Projeto Jogo da Velha\Projeto Jogo da Velha\obj\Debug\Projeto Jogo da Velha.pdb
